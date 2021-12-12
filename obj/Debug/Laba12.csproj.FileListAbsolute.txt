@@ -1,0 +1,10 @@
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba12\bin\Debug\Laba12.exe.config
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba12\bin\Debug\Laba12.exe
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba12\bin\Debug\Laba12.pdb
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba12\obj\Debug\Laba12.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba12\obj\Debug\Laba12.Form1.resources
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba12\obj\Debug\Laba12.Properties.Resources.resources
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba12\obj\Debug\Laba12.csproj.GenerateResource.cache
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba12\obj\Debug\Laba12.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba12\obj\Debug\Laba12.exe
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba12\obj\Debug\Laba12.pdb
